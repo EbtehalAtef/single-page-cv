@@ -12,4 +12,4 @@ A simple single-page CV built with HTML and CSS.
 https://roadmap.sh/projects/single-page-cv
 
 ## GitHub Repository
-https://github.com/EbtehalAtef/single-page-cv
+https://EbtehalAtef.github.com.io/single-page-cv
